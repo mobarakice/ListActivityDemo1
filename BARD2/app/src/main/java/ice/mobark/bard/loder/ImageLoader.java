@@ -1,4 +1,4 @@
-package ice.mobark.bard;
+package ice.mobark.bard.loder;
 
 import android.content.Context;
 import android.content.res.Resources;
@@ -10,6 +10,9 @@ import android.os.AsyncTask;
 import android.widget.ImageView;
 
 import java.lang.ref.WeakReference;
+
+import ice.mobark.bard.R;
+import ice.mobark.bard.activity.MainActivity;
 
 /**
  * Created by user on 12/4/2015.

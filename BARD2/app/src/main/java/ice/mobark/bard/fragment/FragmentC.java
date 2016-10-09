@@ -1,4 +1,4 @@
-package ice.mobark.bard;
+package ice.mobark.bard.fragment;
 
 
 import android.os.Bundle;
@@ -8,6 +8,9 @@ import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+
+import ice.mobark.bard.R;
+import ice.mobark.bard.adapter.ImageAdapter;
 
 
 public class FragmentC extends Fragment {
@@ -44,7 +47,7 @@ public class FragmentC extends Fragment {
 
         recyclerView = (RecyclerView) v.findViewById(R.id.rv_gallery);
         recyclerView.setHasFixedSize(true);
-        gridLayoutManager = new GridLayoutManager(getActivity(), 3);
+        gridLayoutManager = new GridLayoutManager(getActivity(), 2);
         recyclerView.setLayoutManager(gridLayoutManager);
         imageAdapter = new ImageAdapter(getActivity(), icons);
         recyclerView.setAdapter(imageAdapter);

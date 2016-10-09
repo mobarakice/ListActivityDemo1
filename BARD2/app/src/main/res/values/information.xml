@@ -1,68 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">BARD</string>
-    <string name="action_settings">Settings</string>
 
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+<string name="establishment"><![CDATA[
+    <html>
+    <body style="text-align:justify;color:black;">
+    <p>Bangladesh Academy for Rural Development(BARD) started its journey as a training institute on
+        27th May 1959
+        under the dynamic leadership of famous rural development architect Dr. Akhter Hameed Khan to
+        train different
+        stakeholders of Village Agricultural and Industrial Development (V-AID) programme. Since
+        then, BARD is
+        an internationally reputed training institute of the country. In course of time, research
+        and action
+        research were included as its regular activities. BARD has incorporated the findings of
+        research and action
+        research in training curriculum in order to make it more pragmatic. This unified approach of
+        training,
+        research and action research of the Academy to solve problems of rural areas has given
+        special significance
+        to rural development of the country. This approach has been following meticulously with a
+        view to making
+        its training practical, field-oriented, effective and meaningful. Through its diversified
+        training
+        programmes, the Academy has made significant contributions to the human resources
+        development specially for
+        rural level planning and management of rural development programs as well as projects
+        throughout the country.
+        BARD has also been contributing to develop human resources outside the country through
+        sharing regional and
+        international perspective and experiences of rural development in a limited way.</p>
 
-    <string-array name="titles">
-        <item>"Founder of BARD"</item>
-        <item>"The Function of the academy"</item>
-        <item>"Reserch"</item>
-        <item>"Training"</item>
-        <item>"Action Reserch"</item>
-        <item>"Facilities of BARD"</item>
-        <item>"Facalty"</item>
-    </string-array>
+    <p> The academy has formed a
+        congenial training environment for the officials of government organizations (Gos) and non
+        -government (NGOs),
+        representatives of local government, co-operative institutions, students and researchers of
+        universities
+        and other institutions for higher learning. With the assistance of UNDP, FAO, WFP, ILO,
+        CIRDAP, SAARC, AARDO,
+        KOIKA, JICA and COMSEC, BARD also conducts seminars, workshops and training programs on
+        various issues of
+        rural development for the participants of the countries in the Asia-Pacific and Africa
+        regions. The training
+        calender displays the schedules for selected training activities of the Academy during
+        2015-16 though there
+        is scope of accommodating other training programs through discussions with the
+        sponsoring/donor agencies and
+        concerned individuals.</p>
 
-    <string-array name="descriptionOfBard">
-        <item><![CDATA[
-        <html>
-        <body><p style="text-align:justify;color:black;">
-            In 1947 he took up a teaching position at the Jamia Millia, Delhi where he stayed for three years.
-            In 1950 he migrated to Pakistan and became the Principal of Victoria College, Comilla (Bangladesh).
-            He remained at the Victoria College until 1958 with a break in 1954-55 when he was placed on deputation
-            as Director, Village Agricultural and Industrial Development (V-AID) Programme, a national community
-            development programme launched by the Government of the then East Pakistan.</p>
-        <p style="text-align:justify;color:black;">
-            In 1958 he went to the Michigan State University (MSU) for special orientation in rural development.
-            On his return in 1959 he became the first Director of the Pakistan (presently Bangladesh) Academy for
-            Rural Development (BARD) at Comilla where he worked until 1971. He also served as Vice-Chairman of the
-            Academy’s Board of Governors for several years.</p>
-        <p style="text-align:justify;color:black;">
-            From 1971 to 1972, Dr. Khan served as a Research Fellow first at the Agricultural University,
-            Lyallpur, Pakistan and then from 1972 to 1973 at the Economics Department, Karachi University.
-            In 1973, he returned to the Michigan State University as a Visiting Professor where he remained
-            until 1979. During this period he also served as Adviser, PARD at Peshawar (1973-1975) and for
-            seven months as Adviser, Rural Development Academy, Bogra, Bangladesh (1978-79). In April 1980,
-            the Oran	`gi Pilot Project at Karachi was established (with the aim of improving the sanitation,
-            drainage, sewerage, education, etc., of a vast squatters’ colony inhabited by about 0.6 million people)
-            and since then he has been its Director and its most dynamic and innovative leader.</p>
-        <p style="text-align:justify;color:black;">
-            For his pioneering work in the development of rural and low income areas, Dr. Khan has been awarded
-            the Sitara-e-Pakistan (1961), the Magsaysay Award, Republic of Philippines (1963) and honorary Doctor
-            of Laws Degree, Michigan State University (1964). In addition to the MSU, he has been a Visiting Professor
-            at the Lund University, Sweden, at the Woodrow Wilson School, Princeton University, at the Harvard
-            University and Oxford University.</p>
-        <p style="text-align:justify;color:black;">
-            Dr. Khan has been a voracious reader since his early student life. He is well versed in several languages:
-            Arabic, Persian, Urdu, Hindi and Bengali. Though he wrote only casually, his writings are quite voluminous.
-            The variety of his interests in language and literature; in history, geography and philosophy; in scriptures
-            and theology; in economics, welfare and development; in organizations and institutions for productive activities
-            would fill one’s mind with awe and admiration. He has written almost in every subject of his interest. His writings
-            provide deep insight into the social, economic, political and administrative issues; the moral, religious and cultural
-            milieu; and the natural, climatic and demographic factors surrounding the prospects of rural development in the third
-            world countries.</p>
-        <p style="text-align:justify;color:black;">
-            As a lifelong practicing social scientist, all his academic, administrative and organizational pursuits centered
-            around practical development works that aimed at the upliftment of the poor and the depressed. A deep concern for
-            these helpless people-their plight of poverty, ignorance and backwardness-has tormented his life and shaped the
-            course of his thoughts and action.</p>
+    <p>The Academy is located at Kotbari under Comilla Sadar South Upazilla (sub district) at eight
+        kilometers to
+        the west of Comilla city. Comilla is connected with Dhaka (100 kilometers) and Chittagong
+        (170 kilometers)
+        by railway and road transport. The Academy\'s campus has an area of 156 acres of plain and
+        hilly lands of
+        Lalmai hills with orchards, nursries, parks, vegetable farms, fruit and flower gardens. The
+        campus is almost
+        self-contained. It has two auditoriums, four conference halls, five class rooms, three
+        cafeterias, one health clinic,
+        one sports and recreation center, telephone exchange, post office, bank, mosque, consumer
+        store, laundry,
+        haircutting saloon, a development communication unit with modern equipments, one computer
+        lab, a modern libray
+        with internet facilities having more than 65 thousands latest collection of books, journals
+        and periodicals.
+        The Academy has a liaison office at 2/GA/2, Nawab Habibullah Road, Shahbag, Dhaka,
+        Bangladesh. Tel. 02-8627813.</p>
 
-        </body>
-        </html>
-    ]]></item>
-        <item><![CDATA[
+    <p>
+        Address for Correspondence<br/>
+        Director General<br/>
+        BARD, Kotbari, Comilla, Bangladesh<br/>
+        Phone : 081-63600 (Direct)<br/>
+        PABX : 081-60601-6, Extn. 301(Off.), 401(Res.)<br/>
+        Fax : 081-68406<br/>
+        E-mail : dgbard1959@gmail.com; trainingbard@gmail.com<br/>
+        Web : www.bard.gov.bd<br/>
+    </p>
+    </body>
+    </html>
+    ]]></string>
+
+    <string name="functionsOftheAcademy"><![CDATA[
         <html>
 
         <body style="text-align:justify;">
@@ -86,8 +104,9 @@
         </p>
         </body>
         </html>
-        ]]></item>
-        <item><![CDATA[
+        ]]></string>
+
+    <string name="research"><![CDATA[
         <html>
 
         <body style="text-align:justify;">
@@ -103,8 +122,9 @@
         </p>
         </body>
         </html>
-        ]]></item>
-        <item><![CDATA[
+        ]]></string>
+
+    <string name="training"><![CDATA[
         <html>
 
         <body style="text-align:justify;">
@@ -124,8 +144,9 @@
 
         </body>
         </html>
-        ]]></item>
-        <item><![CDATA[
+        ]]></string>
+
+    <string name="actionResearch"><![CDATA[
         <html>
 
         <body style="text-align:justify;">
@@ -160,8 +181,9 @@
 
         </body>
         </html>
-        ]]></item>
-        <item><![CDATA[
+        ]]></string>
+
+<string name="facilitiesAtBard"><![CDATA[
     <html>
 
     <body style="text-align:justify;">
@@ -178,8 +200,9 @@
     quarters have been built for the faculty and other employees.
     </body>
     </html>
-    ]]></item>
-        <item><![CDATA[<html>
+    ]]></string>
+
+    <string name="contactInformation"><![CDATA[<html>
 
 <body style="text-align:justify;">
 <p><img src="file:///android_asset/dg_sir.jpg" width="150px;" height="180px;"><br/>
@@ -444,6 +467,7 @@
 </p>
 </body>
 </html>
-        ]]></item>
-    </string-array>
+        ]]></string>
+
+
 </resources>

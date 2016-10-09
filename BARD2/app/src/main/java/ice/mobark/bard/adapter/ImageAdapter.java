@@ -1,4 +1,4 @@
-package ice.mobark.bard;
+package ice.mobark.bard.adapter;
 
 import android.content.Context;
 import android.support.v7.widget.RecyclerView;
@@ -6,6 +6,9 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ImageView;
+
+import ice.mobark.bard.loder.ImageLoader;
+import ice.mobark.bard.R;
 
 /**
  * Created by user on 12/17/2015.

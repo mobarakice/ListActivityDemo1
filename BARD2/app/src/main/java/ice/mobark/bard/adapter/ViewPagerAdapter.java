@@ -1,8 +1,13 @@
-package ice.mobark.bard;
+package ice.mobark.bard.adapter;
 
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentStatePagerAdapter;
+
+import ice.mobark.bard.fragment.FragmentA;
+import ice.mobark.bard.fragment.FragmentB;
+import ice.mobark.bard.fragment.FragmentC;
+import ice.mobark.bard.fragment.FragmentD;
 
 /**
  * Created by user on 12/17/2015.

@@ -1,11 +1,23 @@
-<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools"
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#3d3fff"
-    tools:context="ice.mobark.bard.FragmentB">
+    android:background="@color/ArmyBrown"
+    android:orientation="vertical">
 
-    <!-- TODO: Update blank fragment layout -->
+    <ListView
+        android:id="@+id/lv_list_item2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
 
+    </ListView>
 
-</FrameLayout>
+    <fragment
+        android:id="@+id/fragment_common"
+        android:name="ice.mobark.bard.fragment.CommonFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center_horizontal"
+        android:visibility="gone"/>
+
+</LinearLayout>
